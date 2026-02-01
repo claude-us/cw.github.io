@@ -1,0 +1,224 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc02               { /* Common */
+	clip            : rect(0.00pt,422.25pt,3.00pt,0.00pt);
+	}
+.cc03               { /* Common */
+	clip            : rect(0.00pt,417.00pt,3.00pt,0.00pt);
+	}
+.cc04               { /* Common */
+	clip            : rect(0.00pt,422.25pt,3.75pt,0.00pt);
+	}
+.cc05               { /* Common */
+	clip            : rect(0.00pt,417.00pt,3.75pt,0.00pt);
+	}
+span#e23            { /* images/remote001007.jpg */
+	background      : transparent url(images/remote001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 825.00pt;
+	height          :  56.25pt;
+	}
+div#e22             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	background-color: #808080;
+	background-image: url(images/remote001008.jpg);
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  32.25pt;
+	width           :  90.00pt;
+	height          :  24.00pt;
+	}
+div#e21             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	background-color: #808080;
+	background-image: url(images/remote001009.jpg);
+	position        : absolute;
+	left            : 174.00pt;
+	top             :  32.25pt;
+	width           :  90.00pt;
+	height          :  24.00pt;
+	}
+div#e20             { /* Home */
+	padding-top     :   4.50pt;
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  32.25pt;
+	width           :  87.00pt;
+	height          :  18.00pt;
+	}
+div#e19             { /* Support */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            : 174.00pt;
+	top             :  32.25pt;
+	width           :  87.00pt;
+	height          :  12.75pt;
+	}
+div#e18             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  97.50pt;
+	top             : 266.25pt;
+	width           : 423.75pt;
+	height          : 367.50pt;
+	}
+div#e17             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 266.25pt;
+	width           : 187.50pt;
+	height          : 225.00pt;
+	}
+div#e16             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 507.75pt;
+	width           : 187.50pt;
+	height          : 126.00pt;
+	}
+h6#e15              { /* Remote Service That Rock... */
+	position        : absolute;
+	left            :  96.75pt;
+	top             : 686.25pt;
+	width           : 222.00pt;
+	height          :  12.75pt;
+	}
+h6#e14              { /* Copyright (C) 2013 Remot... */
+	text-align      : right;
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 686.25pt;
+	width           : 404.25pt;
+	height          :  16.50pt;
+	}
+h4#e13              { /* Home */
+	text-align      : left;
+	padding-top     :   4.50pt;
+	position        : absolute;
+	left            :  99.00pt;
+	top             : 267.75pt;
+	width           : 413.25pt;
+	height          :  12.75pt;
+	}
+div#e12             { /* Remote Service      That... */
+	background      : transparent url(images/remote001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 545.25pt;
+	top             : 112.50pt;
+	width           : 202.50pt;
+	height          :  88.50pt;
+	}
+span#e11            { /* images/remote001005.jpg */
+	background      : transparent url(images/remote001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  56.25pt;
+	width           : 427.50pt;
+	height          : 195.00pt;
+	}
+img#e10             { /* images/road.gif */
+	position        : absolute;
+	left            : 546.00pt;
+	top             : 522.00pt;
+	width           : 167.25pt;
+	height          :  97.50pt;
+	}
+img#e9              { /* images/heartbeat.gif */
+	position        : absolute;
+	left            : 554.25pt;
+	top             : 315.75pt;
+	width           : 150.75pt;
+	height          : 132.75pt;
+	}
+div#e8              { /* Remote Support That Rock... */
+	position        : absolute;
+	left            : 104.25pt;
+	top             : 303.00pt;
+	width           : 410.25pt;
+	height          : 244.50pt;
+	}
+span#e7             { /* images/remote001004.jpg */
+	background      : transparent url(images/remote001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  99.00pt;
+	top             : 387.00pt;
+	width           : 422.25pt;
+	height          :   3.00pt;
+	}
+span#e6             { /* images/remote001003.jpg */
+	background      : transparent url(images/remote001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  99.75pt;
+	top             : 471.75pt;
+	width           : 417.00pt;
+	height          :   3.00pt;
+	}
+span#e5             { /* images/remote001002.jpg */
+	background      : transparent url(images/remote001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  98.25pt;
+	top             : 554.25pt;
+	width           : 422.25pt;
+	height          :   3.75pt;
+	}
+span#e4             { /* images/remote001001.jpg */
+	background      : transparent url(images/remote001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  99.75pt;
+	top             : 296.25pt;
+	width           : 417.00pt;
+	height          :   3.75pt;
+	}
+div#e3              {
+	position        : absolute;
+	left            : 336.00pt;
+	top             : 615.75pt;
+	width           : 136.50pt;
+	height          :  15.00pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            : 240.00pt;
+	top             : 615.75pt;
+	width           :  72.00pt;
+	height          :  15.00pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            : 274.50pt;
+	top             : 575.25pt;
+	width           :  72.00pt;
+	height          :  21.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 825.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #141414;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
